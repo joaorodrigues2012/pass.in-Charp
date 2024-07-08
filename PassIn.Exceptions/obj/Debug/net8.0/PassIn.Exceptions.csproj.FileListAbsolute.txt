@@ -9,3 +9,4 @@ C:\wamp\www\PassInC#\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.dll
 C:\wamp\www\PassInC#\PassIn.Exceptions\obj\Debug\net8.0\refint\PassIn.Exceptions.dll
 C:\wamp\www\PassInC#\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.pdb
 C:\wamp\www\PassInC#\PassIn.Exceptions\obj\Debug\net8.0\ref\PassIn.Exceptions.dll
+C:\wamp\www\PassInC#\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.sourcelink.json

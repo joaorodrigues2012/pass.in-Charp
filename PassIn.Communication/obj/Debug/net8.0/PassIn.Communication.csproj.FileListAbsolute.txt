@@ -9,3 +9,4 @@ C:\wamp\www\PassInC#\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.
 C:\wamp\www\PassInC#\PassIn.Communication\obj\Debug\net8.0\refint\PassIn.Communication.dll
 C:\wamp\www\PassInC#\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.pdb
 C:\wamp\www\PassInC#\PassIn.Communication\obj\Debug\net8.0\ref\PassIn.Communication.dll
+C:\wamp\www\PassInC#\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.sourcelink.json
